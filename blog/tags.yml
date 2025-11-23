@@ -1,19 +1,15 @@
-facebook:
-  label: Facebook
+update:
+  label: Update
   permalink: /facebook
-  description: Facebook tag description
+  description: Atualizações de dependências
 
-hello:
-  label: Hello
+trajetoria:
+  label: Trajetória
   permalink: /hello
-  description: Hello tag description
+  description: Contam partes da história do projeto, bem como decisões futuras
 
-docusaurus:
-  label: Docusaurus
+introdução:
+  label: Introdução
   permalink: /docusaurus
-  description: Docusaurus tag description
+  description: Introduz algum recurso novo, conceito ou tecnologia
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
