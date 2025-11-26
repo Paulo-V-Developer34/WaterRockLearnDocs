@@ -13,6 +13,7 @@ O Water Rock Learn (WRL) foi projetado para ser um programa completo hospedado n
 - [Testing Library](https://testing-library.com/)
 - [Vitest](https://vitest.dev/)
 - [Prisma ORM](https://www.prisma.io/orm)
+- [Biomejs](https://biomejs.dev/)
 Vale resaltar que as dependencias dessas bibliotecas e do framework não foram citadas, como por exemplo o [React.js](https://pt-br.legacy.reactjs.org/) que é uma dependência do Next.js
 
 ## Google Cloud
@@ -32,6 +33,7 @@ A explicação da utilização das bibliotecas será organizada da seguinte form
 - Design Patterns (SOLID, Factory, etc...)
 - Planejamento (Draw.io, Diagrama de Caso de Uso, UML, etc...)
 - Documentação (TypeDoc, Docusaurus)
+- Formatação e lint (Biome.js)
 
 ## Docusaurus
 
